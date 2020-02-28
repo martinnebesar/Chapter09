@@ -1,0 +1,7 @@
+C:\Martin\Ch09Ex03\Ch09Ex03\bin\Debug\Ch09Ex03.exe.config
+C:\Martin\Ch09Ex03\Ch09Ex03\bin\Debug\Ch09Ex03.exe
+C:\Martin\Ch09Ex03\Ch09Ex03\bin\Debug\Ch09Ex03.pdb
+C:\Martin\Ch09Ex03\Ch09Ex03\obj\Debug\Ch09Ex03.csprojAssemblyReference.cache
+C:\Martin\Ch09Ex03\Ch09Ex03\obj\Debug\Ch09Ex03.csproj.CoreCompileInputs.cache
+C:\Martin\Ch09Ex03\Ch09Ex03\obj\Debug\Ch09Ex03.exe
+C:\Martin\Ch09Ex03\Ch09Ex03\obj\Debug\Ch09Ex03.pdb

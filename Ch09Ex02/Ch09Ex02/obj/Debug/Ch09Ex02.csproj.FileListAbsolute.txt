@@ -1,0 +1,10 @@
+C:\Martin\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe.config
+C:\Martin\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe
+C:\Martin\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.pdb
+C:\Martin\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLib.dll
+C:\Martin\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLib.pdb
+C:\Martin\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.csprojAssemblyReference.cache
+C:\Martin\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.csproj.CoreCompileInputs.cache
+C:\Martin\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.csproj.CopyComplete
+C:\Martin\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.exe
+C:\Martin\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.pdb
